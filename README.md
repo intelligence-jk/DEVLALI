@@ -1,4 +1,4 @@
-# KARMA: Kaprekar's Algorithm Reaches the Magic Answer
+# KAPREKAR: named after D. R. Kaprekar, who found the number 6174
 
 Formerly `kaprekar-6174`.
 
