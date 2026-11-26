@@ -1,4 +1,4 @@
-# KAPREKAR: named after D. R. Kaprekar, who found the number 6174
+# DEVLALI: named after the town where D. R. Kaprekar taught and found the constant 6174
 
 Formerly `kaprekar-6174`.
 
