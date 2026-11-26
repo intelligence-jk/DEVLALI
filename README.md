@@ -1,4 +1,6 @@
-# kaprekar-6174
+# KARMA: Kaprekar's Algorithm Reaches the Magic Answer
+
+Formerly `kaprekar-6174`.
 
 Explore Kaprekar's routine: the path from almost any 4-digit number to 6174, and from any 3-digit number to 495.
 
